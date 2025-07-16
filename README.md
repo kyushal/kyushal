@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Ask me about writing clean backend code, building secure APIs, or working with Python frameworks.**
 
-- 📫 How to reach me **You can reach me via email at [kushalgandhi165@gmail.com] or find me on LinkedIn: [www.linkedin.com/in/ kushal-gandhi12].**
+- 📫 How to reach me **You can reach me via email at [kushalgandhi165@gmail.com] or find me on LinkedIn: [www.linkedin.com/in/kushal-gandhi12].**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SjFmQr4xCXFCyYSFinaezmpu5Bp0DrZ5/view?usp=sharing](https://drive.google.com/file/d/1SjFmQr4xCXFCyYSFinaezmpu5Bp0DrZ5/view?usp=sharing)
 
