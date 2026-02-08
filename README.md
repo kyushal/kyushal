@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **You can reach me via email at [kushalgandhi165@gmail.com] or find me on LinkedIn: [www.linkedin.com/in/kushal-gandhi12].**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t_cnQJrjBChBZsGAevI-VL2EOw5Idmq5/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sX4FcGg2THCZ8fksouqLnzFk8gougIvq/view?usp=drive_link]
 
 - ⚡ Fun fact **Coding is my passion, but I also enjoy staying fit, experimenting in the kitchen, and playing sports.**
 
