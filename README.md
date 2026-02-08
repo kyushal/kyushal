@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kushal Gandhi</h1>
 <h3 align="center">💼 Backend Developer | Solving Real-World Problems with Code</h3>
 
-- 🔭 I’m currently working on **I’m developing scalable APIs at Jio using Django and FastAPI, with a focus on speed, security, and clean code.**
+- 🔭 I’m currently working on **developing scalable APIs at Jio using Django and FastAPI, with a focus on speed, security, and clean code.**
 
-- 🌱 I’m currently learning **Diving deeper into frontend frameworks like React, while also sharpening my backend and DevOps skills.**
+- 🌱 I’m currently diving **deeper into frontend frameworks like React, while also sharpening my backend and DevOps skills.**
 
-- 👯 I’m looking to collaborate on **Open to teaming up on API development, backend systems, or full-stack projects.**
+- 👯 I’m looking to collaborate on **API development, backend systems, or full-stack projects.**
 
-- 🤝 I’m looking for help with **I’m looking for help with learning better system design and deployment practices.**
+- 🤝 I’m looking for help with **learning better system design and deployment practices.**
 
-- 💬 Ask me about **Ask me about writing clean backend code, building secure APIs, or working with Python frameworks.**
+- 💬 Ask me about **writing clean backend code, building secure APIs, or working with Python frameworks.**
 
-- 📫 How to reach me **You can reach me via email at [kushalgandhi165@gmail.com] or find me on LinkedIn: [www.linkedin.com/in/kushal-gandhi12].**
+- 📫 How to reach me **via email at [kushalgandhi165@gmail.com] or find me on LinkedIn: [www.linkedin.com/in/kushal-gandhi12].**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sX4FcGg2THCZ8fksouqLnzFk8gougIvq/view?usp=drive_link]
 
